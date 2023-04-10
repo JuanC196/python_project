@@ -1,0 +1,8 @@
+setup.py
+entrega2/__init__.py
+entrega2/modulo1.py
+entrega2/modulo2.py
+entrega2.egg-info/PKG-INFO
+entrega2.egg-info/SOURCES.txt
+entrega2.egg-info/dependency_links.txt
+entrega2.egg-info/top_level.txt
